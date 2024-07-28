@@ -14,7 +14,7 @@ Admin menu for user management
   Add user
 ![image](https://github.com/user-attachments/assets/96eeee79-f86e-42a2-af7f-5f2b71b358e6)
   Edit user
-![image](https://github.com/user-attachments/assets/e7bff6e2-7d7e-43cd-8e50-1b923ed19a35)
+![image](https://github.com/user-attachments/assets/1d808f69-3e19-437b-b1ef-1a74ab89cd22)
 
 User menu - password change
 ![image](https://github.com/user-attachments/assets/60d353ea-bf88-4ad2-9e67-8b1ce95e50e8)
