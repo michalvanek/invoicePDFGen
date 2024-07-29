@@ -5,7 +5,8 @@ Login page
 ![image](https://github.com/user-attachments/assets/e5515c7e-ca73-49b5-800e-d0829ebc8d96)
 
 Main page
-![image](https://github.com/user-attachments/assets/2d278a4b-a2cf-49c0-922a-1afa97da32be)
+![Captura](https://github.com/user-attachments/assets/938f7513-42f7-470c-891d-403c3a9d1c73)
+
 
 Admin menu for B2C calc
 ![sunconstruct-kalkulacka onrender com_adminMenuB2c](https://github.com/user-attachments/assets/0a8b7a1b-89b0-4da5-b9d4-884bbc184a35)
